@@ -5,7 +5,7 @@ const port = 3000;
 const server = http.createServer((req, res) => {
   if (req.url === '/') {
     res.writeHead(200, { 'Content-Type': 'text/plain' });
-    res.end('Pipeline Node.js funcionando vagabundo!\n');
+    res.end('Pipeline Node.js funcionando, teste 2.0!\n');
     return;
   }
 
