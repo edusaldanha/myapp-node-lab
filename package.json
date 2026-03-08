@@ -1,0 +1,13 @@
+{
+  "name": "meu-app-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+      "start": "node app.js",
+       "test": "node test.js"
+  },
+  "keywords": [],
+  "author": "Eduardo Saldanha",
+  "license": "ISC"
+}
